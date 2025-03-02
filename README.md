@@ -189,6 +189,7 @@ class Test {
 
 ---
 
-### **Conclusion**  
-These are the **core Java basics** needed for writing and understanding Java programs. Mastering these concepts forms the foundation for **Object-Oriented Programming (OOP)** and advanced topics like **Collections, Multithreading, and Frameworks**.
+### **Conclusion** 
+
+Learning these basic Java concepts is important for writing and understanding Java programs. They are the foundation for Object-Oriented Programming (OOP) and help in learning advanced topics like Collections, Multithreading, and Frameworks.
 
